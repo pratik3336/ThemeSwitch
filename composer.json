@@ -1,0 +1,7 @@
+{
+  "name": "civic/civic_accessibility_toolbar",
+  "description": "Civic - Accessibility Toolbar",
+  "type": "drupal-module",
+  "minimum-stability": "dev"
+}
+

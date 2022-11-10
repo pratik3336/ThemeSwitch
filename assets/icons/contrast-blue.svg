@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="7843.5 -23.5 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6cf;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #0001ff;
+      }
+
+      .cls-2 {
+        fill: #009;
+      }
+    </style>
+  </defs>
+  <g id="Group_624" data-name="Group 624" transform="translate(6966 -46)">
+    <path id="Subtraction_3" data-name="Subtraction 3" class="cls-1" d="M44,63h0a7,7,0,0,1,0-14V63Z" transform="translate(841 -26)"/>
+    <path id="Subtraction_4" data-name="Subtraction 4" class="cls-2" d="M44,63h0a7,7,0,0,1,0-14V63Z" transform="translate(929 86) rotate(180)"/>
+  </g>
+</svg>

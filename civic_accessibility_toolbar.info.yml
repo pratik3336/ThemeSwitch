@@ -1,0 +1,10 @@
+name: 'Civic Accessibility Toolbar'
+description: 'Creates a block with options to resize text and change color contrast'
+type: module
+package: Civic
+core_version_requirement: ^8 || ^9
+
+# Information added by Drupal.org packaging script on 2021-08-03
+version: '1.0.4'
+project: 'civic_accessibility_toolbar'
+datestamp: 1627999469

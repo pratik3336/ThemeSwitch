@@ -1,0 +1,83 @@
+.accessibility--control {
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+.accessibility--control img {
+  width: 15px;
+}
+.accessibility--control.button__medium {
+  font-size: 1.2em;
+}
+.accessibility--control.button__large {
+  font-size: 1.4em;
+}
+.font__125 {
+  font-size: 1.25em;
+}
+.font__15 {
+  font-size: 1.5em;
+}
+.theme__blue *,
+.theme__blue {
+  color: #000098 !important;
+  background: #6cf !important;
+}
+.theme__blue * {
+  fill: #000098;
+  border-color: #000098  !important;
+}
+.theme__blue::-webkit-input-placeholder {
+  color: #000098;
+}
+.theme__blue:-moz-placeholder,
+.theme__blue::-moz-placeholder {
+  color: #000098;
+}
+.theme__blue:-ms-input-placeholder {
+  color: #000098;
+}
+.theme__hivis,
+.theme__hivis * {
+  color: #ff0 !important;
+  background: #000 !important;
+}
+.theme__hivis * {
+  fill: #ff0;
+  border-color: #ff0 !important;
+}
+.theme__hivis::-webkit-input-placeholder {
+  color: #ff0;
+}
+.theme__hivis:-moz-placeholder,
+.theme__hivis::-moz-placeholder {
+  color: #ff0;
+}
+.theme__hivis:-ms-input-placeholder {
+  color: #ff0;
+}
+.theme__soft,
+.theme__soft * {
+  color: #00009f !important;
+  background: #cccc96 !important;
+}
+.theme__soft * {
+  fill: #00009f;
+  border-color: #00009f !important;
+}
+.theme__soft::-webkit-input-placeholder {
+  color: #00009f;
+}
+.theme__soft:-moz-placeholder,
+.theme__soft::-moz-placeholder {
+  color: #00009f;
+}
+.theme__soft:-ms-input-placeholder {
+  color: #00009f;
+}
+
+.theme__soft .triangle,
+.theme__hivis .triangle,
+.theme__blue .triangle {
+  display: none !important;
+}

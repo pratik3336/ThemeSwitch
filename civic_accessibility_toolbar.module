@@ -1,0 +1,42 @@
+<?php
+
+/**
+ * @file
+ * Main file for Civic Accessibility Toolbar module.
+ *
+ * Module developed by Civic UK www.civicuk.com.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function civic_accessibility_toolbar_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    case 'help.page.civic_accessibility_toolbar':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Place the block into a region at Structure -> Block Layout') . '</p>';
+      return $output;
+  }
+
+}
+
+/**
+ * Implements hook_theme().
+ */
+function civic_accessibility_toolbar_theme() {
+  return [
+    'block__accessibility_toolbar' => [
+      'template' => 'block--accessibility_toolbar',
+      'variables' => [
+        'text_resize' => '',
+        'color_contrast' => '',
+        'text_resize_label' => '',
+        'color_contrast_label' => '',
+      ],
+    ],
+  ];
+
+}
