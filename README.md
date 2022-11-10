@@ -6,7 +6,7 @@ INTRODUCTION
 The Accessibility Toolbar module creates a block with buttons to resize text
 and change color contrast. You can select to display text resize,
 color contrast or both.
-All theme font sizes must then use rem or em units.
+
 The module is tested with Bartik, Garland, Zen Starterkit, Stark,
 Oliveiro themes
 
