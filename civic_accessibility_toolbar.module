@@ -2,9 +2,9 @@
 
 /**
  * @file
- * Main file for Civic Accessibility Toolbar module.
+ 
  *
- * Module developed by Civic UK www.civicuk.com.
+ 
  */
 
 use Drupal\Core\Routing\RouteMatchInterface;
