@@ -11,17 +11,11 @@ The module is tested with Bartik, Garland, Zen Starterkit, Stark,
 Oliveiro themes
 
 
-REQUIREMENTS
-------------
-
-This module requires no modules outside of Drupal core.
-
-
 INSTALLATION
--------
-Installing the Accessibility Toolbar module is simple:
 
-1) Copy the civic_accessibility_toolbar folder to the modules folder in
+
+
+1) Copy the ThemeSwitcher to the modules folder in
    your installation
 
 2) Enable the module using Administer -> Extend page (/admin/modules)
