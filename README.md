@@ -1,4 +1,9 @@
-# ThemeSwitcher
+This Theme Switcher Widget was developed in my internship in Indian Institute Of Technology Mumbai . The www.et.iitb.ac.in is the official website of the Educational Technology department at IIT Bombay. This website showcases multiple labs that facilitate research and development of Educational Technology.
+
+The ET IITB website shows the collaborative research and development work by Ph.D. research scholars in emerging technology areas, as well as showcases state-of-the-art infrastructure like Virtual Reality HMDs, 3D printers, physical computing devices and high-end workstations.
+
+
+# ThemeSwitcher Widget
  
 INTRODUCTION
 ------------
